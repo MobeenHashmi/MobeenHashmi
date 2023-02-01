@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MobeenHashmi
 - 👀 I’m interested to develop in Softwares and Web/ Mobile Application with new innovations.
-- 🌱 I’m currently learning X++ in Microsoft Dynamics Ax 2012.
+- 🌱 I have 2 months of experience in X++ in Microsoft Dynamics Ax 2012.
 - 💬 Ask me about Web Development, MERN.
 - 📫 How to reach me 📧Email: Mobeenhasan00038@gmail.com or 🤙Call me: +92 303 0177881.
