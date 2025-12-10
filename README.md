@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ Full Stack Web Developer
-- In the recent past, I have actively used the following GitHub repository for my projects: https://github.com/Mobeen08
+- In the recent past, I have actively used the following GitHub account for my projects: https://github.com/Mobeen08 , https://github.com/MobeenIndex
